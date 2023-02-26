@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/atulshandilya11.github.io/SmartContract/static/css/main.26892fd7.css",
-    "main.js": "/atulshandilya11.github.io/SmartContract/static/js/main.c4ffadc3.js",
-    "static/js/787.481acb69.chunk.js": "/atulshandilya11.github.io/SmartContract/static/js/787.481acb69.chunk.js",
-    "index.html": "/atulshandilya11.github.io/SmartContract/index.html",
-    "main.26892fd7.css.map": "/atulshandilya11.github.io/SmartContract/static/css/main.26892fd7.css.map",
-    "main.c4ffadc3.js.map": "/atulshandilya11.github.io/SmartContract/static/js/main.c4ffadc3.js.map",
-    "787.481acb69.chunk.js.map": "/atulshandilya11.github.io/SmartContract/static/js/787.481acb69.chunk.js.map"
+    "main.css": "/SmartContract/static/css/main.26892fd7.css",
+    "main.js": "/SmartContract/static/js/main.2d15476c.js",
+    "static/js/787.481acb69.chunk.js": "/SmartContract/static/js/787.481acb69.chunk.js",
+    "index.html": "/SmartContract/index.html",
+    "main.26892fd7.css.map": "/SmartContract/static/css/main.26892fd7.css.map",
+    "main.2d15476c.js.map": "/SmartContract/static/js/main.2d15476c.js.map",
+    "787.481acb69.chunk.js.map": "/SmartContract/static/js/787.481acb69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26892fd7.css",
-    "static/js/main.c4ffadc3.js"
+    "static/js/main.2d15476c.js"
   ]
 }
